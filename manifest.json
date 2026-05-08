@@ -1,4 +1,6 @@
-[
+{
+"name": "BPhong",
+"scrapers"; [
     {
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/lock.ico",
         "apiVersion": 1,
@@ -11,6 +13,7 @@
         "tvTypes": [
             "Others"
         ],
+        "id": "MovieProvider",
         "version": 1,
         "internalName": "MovieProvider",
         "description": "Phải cài đặt repo này và kích hoạt mới tải được các nguồn bên dưới",
@@ -128,6 +131,7 @@
         "name": "HoliTVProvider"
     },
     {
+        "id"; "KKPhimProvider",
         "iconUrl": "https://gitlab.com/tearrs/movie/-/raw/main/icon/kkphim.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://t.me/cs3vn",
@@ -317,3 +321,4 @@
         "name": "YumeiAnimeProvider"
     }
 ]
+}
